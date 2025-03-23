@@ -77,3 +77,4 @@ If you encounter any issues:
 ## License
 
 This script is provided as-is under the GPL-3.0 license. 
+Copyright &copy; CreativeWebConcept.ca
